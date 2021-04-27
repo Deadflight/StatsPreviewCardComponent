@@ -24,8 +24,8 @@ Users should be able to:
 ![](./images/Screenshot.PNG)
 ### Links
 
-- Solution URL: [https://github.com/Deadflight/StatsPreviewCardComponent]
-- Live Site URL: [Add live site URL here](https://deadflight.github.io/StatsPreviewCardComponent/)
+- [Solution URL](https://github.com/Deadflight/StatsPreviewCardComponent)
+- [Live Site URL](https://deadflight.github.io/StatsPreviewCardComponent/)
 
 ### Built with
 
